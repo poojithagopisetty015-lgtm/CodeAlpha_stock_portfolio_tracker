@@ -31,6 +31,3 @@ The Stock Portfolio Tracker is a Python-based application used to manage and tra
 ```bash
 python stock_portfolio_tracker.py
 
-## Output
-The project output screenshots and results are included in:
-- stock_portfolio_tracker_output.pdf
